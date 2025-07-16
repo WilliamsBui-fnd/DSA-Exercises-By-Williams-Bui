@@ -37,3 +37,4 @@ int main()
     }
     cout << mySet.size();
 }
+//using set is the easiest way
