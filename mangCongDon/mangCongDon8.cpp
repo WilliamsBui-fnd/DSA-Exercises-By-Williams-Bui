@@ -4,6 +4,11 @@
 // từ 1 đến M, ngoài ra Tèo lại muốn thực hiện K truy vấn, mỗi truy vấn Tèo lại thực
 // hiện các thao tác từ x tới y theo số thứ tự thao tác (1<=x<=y<=M). Bạn hãy giúp Tèo
 //  in ra mảng A[] sau K truy vấn
+//  Dòng 1 là N, M, K
+//  Dòng 2 là N số trong mảng A[]
+//  M dòng tiếp theo mỗi dòng gồm 3 số L, R, D
+//  K dòng tiếp theo mỗi dòng gồm 2 số x, y
+
 #include <iostream>
 #include <vector>
 using namespace std;
